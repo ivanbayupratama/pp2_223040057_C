@@ -1,1 +1,1 @@
-# pp2_223040057_C
+Kumpulan Tugas dan Latihan Praktikum Pemrograman 2
