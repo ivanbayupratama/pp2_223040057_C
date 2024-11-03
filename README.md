@@ -15,19 +15,6 @@ Aplikasi GMC Basketball Registration adalah aplikasi berbasis GUI (Graphical Use
 Java Development Kit (JDK) versi 8 atau lebih baru.
 Java Swing (termasuk dalam JDK).
 🚀 Cara Menjalankan Aplikasi
-Kloning repositori atau unduh source code-nya.
-
-bash
-Copy code
-git clone https://github.com/username/GMC-Basketball-Registration.git
-cd GMC-Basketball-Registration
-Kompilasi dan Jalankan:
-
-bash
-Copy code
-javac GMCPlayerHub.java
-java GMCPlayerHub
-Alternatif dengan IDE: Buka project di IDE (NetBeans, IntelliJ IDEA) dan jalankan file GMCPlayerHub.java.
 
 📂 Struktur Kelas
 GMCPlayerHub
@@ -38,10 +25,7 @@ Kelas model yang merepresentasikan anggota klub dengan atribut name, position, d
 
 🖼️ Screenshots
 Tampilan Form Tambah Anggota
-
-
 Tampilan Data Anggota
-
 
 📬 Kontak Pengembang
 Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di ivanbayu857@gmail.com atau melalui GitHub: @ivanbayupratama.
